@@ -53,6 +53,7 @@ Prerequisites
 ### Ollama
 
 *   You need to have Ollama running locally. Download and install Ollama from <https://ollama.com/>.
+*   http://ollama.com
 
 ### Conda
 
