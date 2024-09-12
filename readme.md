@@ -68,6 +68,7 @@ Setup Instructions
 
 *   Download and install Ollama from here.
 *   Pull the `minicpm-v` model, a vision-language model used in this project.
+*   ollama run minicpm-v
     *   Run the following command in your terminal to pull the model:
         ```bash
 ollama run minicpm-v
